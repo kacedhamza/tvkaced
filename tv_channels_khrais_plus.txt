@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bein soport hd1" tvg-logo="https://i.pinimg.com/originals/71/3a/c4/713ac4d56c6ed60a5628376a8fdf5d95.png" group-title="bein sports",Bein soport hd1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/4
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681458.png" group-title="bein sports",Bein sport hd2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/5
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports hd3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681459.png" group-title="bein sports",Bein sports hd3
+http://aloka-iptv.xyz:25461/khrais/alikrais223/6
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681460.png" group-title="bein sports",Bein sport hd4
+http://aloka-iptv.xyz:25461/khrais/alikrais223/7
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681461.png" group-title="bein sports",Bein sport hd5
+http://aloka-iptv.xyz:25461/khrais/alikrais223/8
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681462.png" group-title="bein sports",Bein sport hd6
+http://aloka-iptv.xyz:25461/khrais/alikrais223/9
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681463.png" group-title="bein sports",Bein sport hd7
+http://aloka-iptv.xyz:25461/khrais/alikrais223/10
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd8" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681464.png" group-title="bein sports",Bein sport hd8
+http://aloka-iptv.xyz:25461/khrais/alikrais223/11
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd9" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681465.png" group-title="bein sports",Bein sport hd9
+http://aloka-iptv.xyz:25461/khrais/alikrais223/12
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd10" tvg-logo="https://1.bp.blogspot.com/-s2yJ1LzkQsc/XLhH2AAQUvI/AAAAAAAAAD8/QdAPJhGwCoc9OgvJgQWZJbaMKq-PTIjiACLcBGAs/s300/11-HD.png" group-title="bein sports",Bein sport hd10
+http://aloka-iptv.xyz:25461/khrais/alikrais223/13
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low1" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688042.png" group-title="bein sports",Bein sport low1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/14
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports low2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688043.png" group-title="bein sports",Bein sports low2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/15
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688044.png" group-title="bein sports",Bein sport low3
+http://aloka-iptv.xyz:25461/khrais/alikrais223/16
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688045.png" group-title="bein sports",Bein sport low4
+http://aloka-iptv.xyz:25461/khrais/alikrais223/17
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688046.png" group-title="bein sports",Bein sport low5
+http://aloka-iptv.xyz:25461/khrais/alikrais223/18
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688047.png" group-title="bein sports",Bein sport low6
+http://aloka-iptv.xyz:25461/khrais/alikrais223/19
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688048.png" group-title="bein sports",Bein sport low7
+http://aloka-iptv.xyz:25461/khrais/alikrais223/20
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 8 LOW" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681456.png" group-title="bein sports",Bein sport 8 LOW
+http://aloka-iptv.xyz:25461/khrais/alikrais223/21
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="NETFLIX",NETFLIX ACTION
+http://aloka-iptv.xyz:25461/khrais/alikrais223/23
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="NETFLIX",NETFLIX HORROR
+http://aloka-iptv.xyz:25461/khrais/alikrais223/24
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="NETFLIX",NETFLIX COMEDY
+http://aloka-iptv.xyz:25461/khrais/alikrais223/25
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="NETFLIX",NETFLIX DRAMA
+http://aloka-iptv.xyz:25461/khrais/alikrais223/26
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTC MOVIES" tvg-logo="" group-title="MAJESTIC",MAJESTC MOVIES
+http://aloka-iptv.xyz:25461/khrais/alikrais223/27
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="MAJESTIC",MAJESTIC HORROR
+http://aloka-iptv.xyz:25461/khrais/alikrais223/28
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="MAJESTIC",MAJESTIC ARABIC
+http://aloka-iptv.xyz:25461/khrais/alikrais223/29
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="MAJESTIC",MAJESTIC KIDS
+http://aloka-iptv.xyz:25461/khrais/alikrais223/30
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Ya Hala" tvg-logo="" group-title="Osn",OSN: Ya Hala
+http://aloka-iptv.xyz:25461/khrais/alikrais223/31
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Ya Hala Aloula" tvg-logo="" group-title="Osn",OSN: Ya Hala Aloula
+http://aloka-iptv.xyz:25461/khrais/alikrais223/32
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Ya Hala Cinema" tvg-logo="" group-title="Osn",OSN: Ya Hala Cinema
+http://aloka-iptv.xyz:25461/khrais/alikrais223/33
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Action" tvg-logo="" group-title="Osn",OSN: Action
+http://aloka-iptv.xyz:25461/khrais/alikrais223/34
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Comedy" tvg-logo="" group-title="Osn",OSN: Comedy
+http://aloka-iptv.xyz:25461/khrais/alikrais223/35
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Movies" tvg-logo="" group-title="Osn",OSN: Movies
+http://aloka-iptv.xyz:25461/khrais/alikrais223/37
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies 1" tvg-logo="" group-title="Osn",Bein Movies 1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/38
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies 2" tvg-logo="" group-title="Osn",Bein Movies 2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/39
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies 3" tvg-logo="" group-title="Osn",Bein Movies 3
+http://aloka-iptv.xyz:25461/khrais/alikrais223/40
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies 4" tvg-logo="" group-title="Osn",Bein Movies 4
+http://aloka-iptv.xyz:25461/khrais/alikrais223/41
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1" tvg-logo="" group-title="Osn",Bein Series 1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/42
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2" tvg-logo="" group-title="Osn",Bein Series 2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/43
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama 1" tvg-logo="" group-title="Osn",Bein Drama 1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/44
+#EXTINF:-1 tvg-id="" tvg-name="Art Aflam 1" tvg-logo="" group-title="Osn",Art Aflam 1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/46
+#EXTINF:-1 tvg-id="" tvg-name="Art Aflam 2" tvg-logo="" group-title="Osn",Art Aflam 2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/47
+#EXTINF:-1 tvg-id="" tvg-name="Art Hekayat 1" tvg-logo="" group-title="Osn",Art Hekayat 1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/48
+#EXTINF:-1 tvg-id="" tvg-name="Art Hekayat 2" tvg-logo="" group-title="Osn",Art Hekayat 2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/49
+#EXTINF:-1 tvg-id="" tvg-name="Art Cinema" tvg-logo="" group-title="Osn",Art Cinema
+http://aloka-iptv.xyz:25461/khrais/alikrais223/50
+#EXTINF:-1 tvg-id="" tvg-name="bein serrs 2" tvg-logo="" group-title="Osn",bein serrs 2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/66
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="" group-title="MBC",MBC 1
+http://aloka-iptv.xyz:25461/khrais/alikrais223/54
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="" group-title="MBC",MBC 2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/55
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="" group-title="MBC",MBC 3
+http://aloka-iptv.xyz:25461/khrais/alikrais223/56
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="" group-title="MBC",MBC 4
+http://aloka-iptv.xyz:25461/khrais/alikrais223/57
+#EXTINF:-1 tvg-id="" tvg-name="mbcaction" tvg-logo="" group-title="MBC",mbcaction
+http://aloka-iptv.xyz:25461/khrais/alikrais223/58
+#EXTINF:-1 tvg-id="" tvg-name="mbcdramaksa" tvg-logo="" group-title="MBC",mbcdramaksa
+http://aloka-iptv.xyz:25461/khrais/alikrais223/59
+#EXTINF:-1 tvg-id="" tvg-name="MBCMAX" tvg-logo="" group-title="MBC",MBCMAX
+http://aloka-iptv.xyz:25461/khrais/alikrais223/60
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="" group-title="MBC",MBC MASR
+http://aloka-iptv.xyz:25461/khrais/alikrais223/61
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="" group-title="MBC",MBC MASR2
+http://aloka-iptv.xyz:25461/khrais/alikrais223/62
+#EXTINF:-1 tvg-id="" tvg-name="mbc bollywood" tvg-logo="" group-title="MBC",mbc bollywood
+http://aloka-iptv.xyz:25461/khrais/alikrais223/63
